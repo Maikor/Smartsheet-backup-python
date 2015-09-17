@@ -27,6 +27,6 @@ First step is to configure 3 variables in script.
 
 2. `dir = "backup/"` - specify directory in which you want to store backups
 
-3. Fill dict backed_up_sheets with actual sheet name and it's ID.
+3. Fill dict `backed_up_sheets` with actual sheet name and it's ID.
 
 That's all. After type: `python backup.py`  to run the script.
